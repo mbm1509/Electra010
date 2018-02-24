@@ -3,7 +3,8 @@
         <title></title>
     </head>
     <body>
-        <h3>Test page</h3>
+
+        <h1> [[$test]] </h1>
 
     </body>
 </html>
